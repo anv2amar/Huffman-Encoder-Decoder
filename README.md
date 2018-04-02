@@ -1,4 +1,4 @@
-#Steps to execute the project in Linux Environment using g++ with makefile:
+# Steps to execute the project in Linux Environment using g++ with makefile:
 
 1. Copy all the files including the make file in a separate directory
 2. Copy the data file (test file in case of user input to this directory too)
